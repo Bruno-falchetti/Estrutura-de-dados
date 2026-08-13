@@ -22,14 +22,16 @@ int quantidadeimpar = 0;
                 quantidadeimpar++;
             }
         };
-          Console.WriteLine("Números pares:");
+       Console.WriteLine("\nNúmeros pares:");
         for (int i = 0; i < quantidadepar; i++)
-        {
-            Console.Write(pares[i] + " ");
-        };
+            {
+                 Console.Write(pares[i] + " ");
+}
 
-        Console.WriteLine("Números ímpares:");
+                Console.WriteLine("\n\nNúmeros ímpares:");
         for (int i = 0; i < quantidadeimpar; i++)
-        {
-            Console.Write(impares[i] + " ");
-        };
+            {
+              Console.Write(impares[i] + " ");
+}
+
+Console.WriteLine("\n");
