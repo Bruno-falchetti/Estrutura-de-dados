@@ -1,0 +1,15 @@
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\bin\Debug\net10.0\aula.exe
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\bin\Debug\net10.0\aula.deps.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\bin\Debug\net10.0\aula.runtimeconfig.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\bin\Debug\net10.0\aula.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\bin\Debug\net10.0\aula.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.AssemblyInfoInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.AssemblyInfo.cs
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.csproj.CoreCompileInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.sourcelink.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\refint\aula.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\aula.genruntimeconfig.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\aula\obj\Debug\net10.0\ref\aula.dll

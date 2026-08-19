@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\467595\\Estrutura-de-Dados\\Estrutura-de-dados-1\\exercicio1\\exercicio1.csproj": {}
+    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\exercicio1\\exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\467595\\Estrutura-de-Dados\\Estrutura-de-dados-1\\exercicio1\\exercicio1.csproj": {
+    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\exercicio1\\exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\467595\\Estrutura-de-Dados\\Estrutura-de-dados-1\\exercicio1\\exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\exercicio1\\exercicio1.csproj",
         "projectName": "exercicio1",
-        "projectPath": "C:\\Users\\467595\\Estrutura-de-Dados\\Estrutura-de-dados-1\\exercicio1\\exercicio1.csproj",
+        "projectPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\exercicio1\\exercicio1.csproj",
         "packagesPath": "C:\\Users\\467595\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\467595\\Estrutura-de-Dados\\Estrutura-de-dados-1\\exercicio1\\obj\\",
+        "outputPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
