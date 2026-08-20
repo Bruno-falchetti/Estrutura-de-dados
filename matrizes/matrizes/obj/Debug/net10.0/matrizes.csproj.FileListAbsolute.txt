@@ -1,0 +1,15 @@
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.AssemblyInfoInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.AssemblyInfo.cs
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.csproj.CoreCompileInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.sourcelink.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\bin\Debug\net10.0\matrizes.exe
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\bin\Debug\net10.0\matrizes.deps.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\bin\Debug\net10.0\matrizes.runtimeconfig.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\bin\Debug\net10.0\matrizes.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\bin\Debug\net10.0\matrizes.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\refint\matrizes.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\matrizes.genruntimeconfig.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\matrizes\matrizes\obj\Debug\net10.0\ref\matrizes.dll

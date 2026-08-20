@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\aula\\aula.csproj": {}
+    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\matrizes\\matrizes\\matrizes.csproj": {}
   },
   "projects": {
-    "c:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\aula\\aula.csproj": {
+    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\matrizes\\matrizes\\matrizes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\aula\\aula.csproj",
-        "projectName": "aula",
-        "projectPath": "c:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\aula\\aula.csproj",
+        "projectUniqueName": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\matrizes\\matrizes\\matrizes.csproj",
+        "projectName": "matrizes",
+        "projectPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\matrizes\\matrizes\\matrizes.csproj",
         "packagesPath": "C:\\Users\\467595\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\aula\\obj\\",
+        "outputPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\matrizes\\matrizes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
