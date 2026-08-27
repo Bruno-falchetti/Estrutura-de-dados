@@ -100,3 +100,6 @@ List<Person> results = people.OrderBy(p => p.Name).ToList();
     Console.WriteLine($"Nome: {p.Name} - Idade: {p.Age} - Nacionalidade: {p.Nationality}");
 }
 
+
+
+
