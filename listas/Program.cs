@@ -55,3 +55,48 @@ do
     }
 
 } while (run);
+
+
+// listas de tipos abstratos (TAD)
+
+List<Person> people = new List<Person>();
+
+// criar uma variavel do tipo Person
+Person p1 = new Person();
+p1.Name = "João";
+p1.Age = 42;
+p1.Nationality = CountryEnum.BR;
+
+people.Add(p1);
+
+//  adicionando a lista inline
+people.Add(new Person()
+{
+    Name = "Mary",
+    Age = 39,
+    Nationality = CountryEnum.US
+});
+
+people.Add(new Person()
+{
+    Name = "Juan",
+    Age = 39,
+    Nationality = CountryEnum.PY
+});
+
+people.Add(new Person()
+{
+    Name = "Carlito",
+    Age = 20,
+    Nationality = CountryEnum.AR
+});
+
+// exemplo de ordenação de listas genericas
+// Utilizando LINQ 
+List<Person> results = people.OrderBy(p => p.Name).ToList();
+ 
+ foreach (Person p in results)
+{
+    Console.WriteLine($"Nome: {p.Name} - Idade: {p.Age} - Nacionalidade: {p.Nationality}");
+}
+
