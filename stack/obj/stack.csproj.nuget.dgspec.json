@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\listas\\listas.csproj": {}
+    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\stack\\stack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\listas\\listas.csproj": {
+    "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\stack\\stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\listas\\listas.csproj",
-        "projectName": "listas",
-        "projectPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\listas\\listas.csproj",
+        "projectUniqueName": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\stack\\stack.csproj",
+        "projectName": "stack",
+        "projectPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\stack\\stack.csproj",
         "packagesPath": "C:\\Users\\467595\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\listas\\obj\\",
+        "outputPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\stack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
