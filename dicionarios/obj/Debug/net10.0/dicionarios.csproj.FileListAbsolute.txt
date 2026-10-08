@@ -1,0 +1,15 @@
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\bin\Debug\net10.0\dicionarios.exe
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\bin\Debug\net10.0\dicionarios.deps.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\bin\Debug\net10.0\dicionarios.runtimeconfig.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\bin\Debug\net10.0\dicionarios.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\bin\Debug\net10.0\dicionarios.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.AssemblyInfoInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.AssemblyInfo.cs
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.csproj.CoreCompileInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.sourcelink.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\refint\dicionarios.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\dicionarios.genruntimeconfig.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\dicionarios\obj\Debug\net10.0\ref\dicionarios.dll

@@ -1,0 +1,15 @@
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\bin\Debug\net10.0\atv-carro.exe
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\bin\Debug\net10.0\atv-carro.deps.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\bin\Debug\net10.0\atv-carro.runtimeconfig.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\bin\Debug\net10.0\atv-carro.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\bin\Debug\net10.0\atv-carro.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.AssemblyInfoInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.AssemblyInfo.cs
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.csproj.CoreCompileInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.sourcelink.json
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\refint\atv-carro.dll
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.pdb
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\atv-carro.genruntimeconfig.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-Dados\atv-carro\obj\Debug\net10.0\ref\atv-carro.dll
