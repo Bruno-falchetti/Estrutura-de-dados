@@ -3,26 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Trees
+namespace Arvores
 {
-    // <T> representa Generic, permite definir o tipo específico para TreeNode quando ele for declarado
+    //Este T representa GENERIC, permite defirnir o tipo especifico para treenode quando ele for declarado/instanciado
     public class TreeNode<T>
     {
-        public T Data { get; set; }
-        public TreeNode<T> Parent { get; set; }
-        public List<TreeNode<T>> Children { get; set; }
+        public T Data {get;set;}
+        public TreeNode<T> Parent {get;set;}
+        public List<TreeNode<T>> Children {get;set;}
 
         public int GetHeight()
         {
             int height = 1;
             TreeNode<T> current = this;
-
-            while (current.Parent != null)
+            while(current.Parent != null)
             {
                 height++;
                 current = current.Parent;
             }
-
             return height;
         }
     }
