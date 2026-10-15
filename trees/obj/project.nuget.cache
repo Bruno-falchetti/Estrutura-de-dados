@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+r7TklTWuk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\trees\\trees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\467595\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\467595\\.nuget\\packages\\treenode\\1.7.0\\treenode.1.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

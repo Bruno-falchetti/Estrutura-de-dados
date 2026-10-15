@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-Dados\\atv-carro\\atv-carro.csproj",
+      "projectUniqueName": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\atv-carro\\atv-carro.csproj",
       "projectName": "atv-carro",
-      "projectPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-Dados\\atv-carro\\atv-carro.csproj",
+      "projectPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\atv-carro\\atv-carro.csproj",
       "packagesPath": "C:\\Users\\467595\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-Dados\\atv-carro\\obj\\",
+      "outputPath": "C:\\Users\\467595\\Downloads\\estrutura-de-dados\\Estrutura-de-dados\\atv-carro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,7 +53,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

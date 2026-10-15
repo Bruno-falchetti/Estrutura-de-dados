@@ -1,0 +1,6 @@
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\trees\obj\Debug\net10.0\trees.csproj.AssemblyReference.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\trees\obj\Debug\net10.0\trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\trees\obj\Debug\net10.0\trees.AssemblyInfoInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\trees\obj\Debug\net10.0\trees.AssemblyInfo.cs
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\trees\obj\Debug\net10.0\trees.csproj.CoreCompileInputs.cache
+C:\Users\467595\Downloads\estrutura-de-dados\Estrutura-de-dados\trees\obj\Debug\net10.0\trees.sourcelink.json
